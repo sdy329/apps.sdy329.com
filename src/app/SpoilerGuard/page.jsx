@@ -9,9 +9,8 @@ export default async function ResumePage() {
         <div className="bg-slate-900 text-slate-500 font-medium font-sans selection:text-sky-400">
             <div className="mx-auto min-h-screen font-sans">
                 <ProjectNavBar link="https://github.com/AndrewOneal/capstone" />
-                <div className="flex flex-col items-center justify-center my-4">
-                    <h1 className="text-4xl text-slate-200 font-bold text-center">Working on deployment</h1>
-                    <p className="text-lg text-center">Click the github icon to view the repository</p>
+                <div className="flex flex-col items-center justify-center">
+                    <iframe src="https://spoiler-guard-build.vercel.app" className="w-screen max-w-screen-sm h-screen" />
                 </div>
             </div>
         </div >
