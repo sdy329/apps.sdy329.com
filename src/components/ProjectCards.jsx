@@ -5,7 +5,7 @@ export default function ProjectCards() {
         <div className="flex flex-wrap justify-center">
             <div className="m-4">
                 <Link href="/SpoilerGuard">
-                    <div className="z-10 w-full bg-slate-900 opacity-100 hover:opacity-95 transition-all motion-reduce:transition-none">
+                    <div className="z-10 w-full opacity-100 hover:opacity-85 transition-all motion-reduce:transition-none">
                         <div className="max-w-sm rounded overflow-hidden shadow-lg bg-slate-700 min-h-60">
                             <img className="w-full" src="/covers/SpoilerGuard.png" alt="SpoilerGuard" />
                             <div className="px-6 py-4">
@@ -20,7 +20,7 @@ export default function ProjectCards() {
             </div>
             <div className="m-4">
                 <Link href="/Angular-To-Do-List">
-                    <div className="z-10 w-full bg-slate-900 opacity-100 hover:opacity-95 transition-all motion-reduce:transition-none">
+                    <div className="z-10 w-full opacity-100 hover:opacity-85 transition-all motion-reduce:transition-none">
                         <div className="max-w-sm rounded overflow-hidden shadow-lg bg-slate-700 min-h-60">
                             <img className="w-full" src="/covers/AngularToDoList.png" alt="Angular To Do List" />
                             <div className="px-6 py-4">
@@ -35,7 +35,7 @@ export default function ProjectCards() {
             </div>
             <div className="m-4">
                 <Link href="/Cross-Platform-Calculator">
-                    <div className="z-10 w-full bg-slate-900 opacity-100 hover:opacity-95 transition-all motion-reduce:transition-none">
+                    <div className="z-10 w-full opacity-100 hover:opacity-85 transition-all motion-reduce:transition-none">
                         <div className="max-w-sm rounded overflow-hidden shadow-lg bg-slate-700 min-h-60">
                             <img className="w-full" src="/covers/temp.png" alt="Cross Platform Calculator" />
                             <div className="px-6 py-4">
@@ -50,7 +50,7 @@ export default function ProjectCards() {
             </div>
             <div className="m-4">
                 <Link href="/EcoTrack">
-                    <div className="z-10 w-full bg-slate-900 opacity-100 hover:opacity-95 transition-all motion-reduce:transition-none">
+                    <div className="z-10 w-full opacity-100 hover:opacity-85 transition-all motion-reduce:transition-none">
                         <div className="max-w-sm rounded overflow-hidden shadow-lg bg-slate-700 min-h-60">
                             <img className="w-full" src="/covers/EcoTrack.png" alt="Angular To Do List" />
                             <div className="px-6 py-4">
