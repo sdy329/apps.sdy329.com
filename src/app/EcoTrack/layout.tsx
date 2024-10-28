@@ -10,15 +10,15 @@ export const viewport = {
 }
 
 export const metadata = {
-  title: "SpoilerGuard - Spencer Yates",
+  title: "EcoTrack - Spencer Yates",
   charset: "utf-8",
   openGraph: {
     locale: "en_US",
-    site_name: "SpoilerGuard - Spencer Yates",
+    site_name: "EcoTrack - Spencer Yates",
     type: "website",
-    title: "SpoilerGuard - Spencer Yates",
-    description: "SpoilerGuard is A cross-platform wiki application that allows users to browse articles of their favorite media without fear of spoilers.",
-    url: "https://apps.sdy329.com/SpoilerGuard"
+    title: "EcoTrack - Spencer Yates",
+    description: "EcoTrack is a web forum for discussing environmental issues and tracking progress on environmental initiatives.",
+    url: "https://apps.sdy329.com/EcoTrack"
   },
 };
 

@@ -10,15 +10,15 @@ export const viewport = {
 }
 
 export const metadata = {
-  title: "SpoilerGuard - Spencer Yates",
+  title: "Angular To Do List - Spencer Yates",
   charset: "utf-8",
   openGraph: {
     locale: "en_US",
-    site_name: "SpoilerGuard - Spencer Yates",
+    site_name: "Angular To Do List - Spencer Yates",
     type: "website",
-    title: "SpoilerGuard - Spencer Yates",
-    description: "SpoilerGuard is A cross-platform wiki application that allows users to browse articles of their favorite media without fear of spoilers.",
-    url: "https://apps.sdy329.com/SpoilerGuard"
+    title: "Angular To Do List - Spencer Yates",
+    description: "The Angular To Do List is a simple to do list app built with Angular. The app was made to learn the basics of Angular.",
+    url: "https://apps.sdy329.com/Angular-To-Do-List"
   },
 };
 
