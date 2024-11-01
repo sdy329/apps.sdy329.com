@@ -14,7 +14,7 @@ export default async function ResumePage() {
                     <p className="text-lg text-center">Page may or may not load. Click the github icon to view the repository</p>
                 </div>
                 <div className="flex flex-col items-center justify-center">
-                    <iframe src="https://ecotrack.42web.io/" className="w-full max-h-[90vh] h-[90vh]" />
+                    <iframe src="https://ecotrack.42web.io/index.php" className="w-full max-h-[90vh] h-[90vh]" />
                 </div>
             </div>
         </div>
