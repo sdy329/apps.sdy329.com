@@ -37,7 +37,7 @@ export default function ProjectCards() {
                 <Link href="/Cross-Platform-Calculator">
                     <div className="z-10 w-full opacity-100 hover:opacity-85 transition-all motion-reduce:transition-none">
                         <div className="max-w-sm rounded overflow-hidden shadow-lg bg-slate-700 min-h-60">
-                            <img className="w-full" src="/covers/temp.png" alt="Cross Platform Calculator" />
+                            <img className="w-full" src="/covers/CPCalculator.png" alt="Cross Platform Calculator" />
                             <div className="px-6 py-4">
                                 <div className="font-bold text-xl mb-2 text-slate-200">Cross Platform Calculator</div>
                                 <p className="text-gray-400 text-base">
